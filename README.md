@@ -36,7 +36,7 @@
 
 🧨 **Marie** (hack of SMS app, WhatsApp...): Marie is an intelligent copilot powered by gen AI that analyzes suspicious text messages, detects manipulation signals (phishing, smishing), and guides the user toward immediate protective actions.
 
-🧨 **Uber Fit** (hack of Uber Eats): Uber Fit hijacks Uber Eats to integrate, at the moment of ordering, information about the caloric and carbon impact of dishes, sport suggestions, and healthy alternatives based on the user's taste preferences.
+🧨 **Uber Feat** (hack of Uber Eats): Uber Feat hijacks Uber Eats to integrate, at the moment of ordering, information about the caloric and carbon impact of dishes, sport suggestions, and healthy alternatives based on the user's taste preferences.
 
 🧨 **Ballade** (hack of hiking apps): Ballade is an audio copilot for hiking that guides the user in real time: voice announcements on remaining elevation gain, music adapted to the pace of effort, and contextual anecdotes about the trail.
 
